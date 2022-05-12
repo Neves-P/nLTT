@@ -31,6 +31,6 @@ Suggests:
 NeedsCompilation: no
 RoxygenNote: 7.1.2
 Encoding: UTF-8
-VignetteBuilder: knitr
+VignetteBuilder: rmarkdown, knitr
 URL: https://github.com/thijsjanzen/nLTT
 BugReports: https://github.com/thijsjanzen/nLTT/issues
